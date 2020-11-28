@@ -1,4 +1,4 @@
-## Work in progress RAT
+## Work in progress Remote Access Tool
 ### Features:
 * Interactive Command Prompt
 * Automated Enumeration
