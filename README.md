@@ -11,7 +11,16 @@
 </details>
 <!-- AUTO-GENERATED-CONTENT:END -->
 
-* ⚡ Automated Enumeration ⚡
+<!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText="Click to expand") -->
+<details>
+<summary>"⚡ Automated Enumeration ⚡"</summary>
+  
+![image](./images/demo.gif)
+
+</details>
+<!-- AUTO-GENERATED-CONTENT:END -->
+
+
 
 * ⚡ Custom 100% FUD Payloads ⚡
 
@@ -22,5 +31,3 @@
 ❯ ./install.sh
 
 ❯ Pieta
-
-![image](./images/demo.gif)
