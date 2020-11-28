@@ -3,7 +3,7 @@
 
 ### Features:
 
-* ⚡ Interactive Command Prompt ⚡
+## * ⚡ Interactive Command Prompt ⚡
 
 ![image](./images/example.gif)
 
