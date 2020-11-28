@@ -35,7 +35,6 @@ def list():
 	]
 	table = SingleTable(table_data)
 	print(colors.OKGREEN+colors.BOLD+table.table+colors.END)
-
 def banner():
 	print(colors.OKCYAN+"""
 
@@ -73,14 +72,12 @@ def banner():
 		""")
 def generate():
 	pass
-
 def recv_timeout(the_socket, timeout=1):
     """ Socket read method """
     the_socket.setblocking(0)
     total_data = []
     data = ''
     begin = time.time()
-
     while True:
         # if you got some data, then break after wait sec
         if total_data and time.time() - begin > timeout:
@@ -98,9 +95,7 @@ def recv_timeout(the_socket, timeout=1):
         except socket.error as e:
             if not e.errno == 11:
                 raise
-
     return ''.join(total_data)
-
 def server(host, port):
     """ Server Method """
     s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
@@ -109,9 +104,7 @@ def server(host, port):
     s.listen(10)
     conn, addr = s.accept()
     print('Connected by', addr)
-
     return conn
-
 def console(conn):
     """ Run cmd shell """
     while True:
@@ -125,19 +118,14 @@ def console(conn):
             continue
         # get response from client
         print(recv_timeout(conn))
-
     conn.close()
-
-
 def execute(conn, send_data):
     """ Execute(send) single command """
     if send_data.strip():
         conn.sendall('{}\n'.format(send_data).encode('utf-8'))
         # get response from client
         print(recv_timeout(conn))
-
     conn.close()
-
 def listen():
 	host = ''
 	port = 4444
@@ -147,9 +135,6 @@ def listen():
 	    console(client)
 	except KeyboardInterrupt:
 	    sys.exit('\nUser cancelled')
-
-
-
 def prompt():
 	banner()
 	while True:
@@ -172,7 +157,6 @@ def prompt():
 				print("Invalid command, type ? or help")
 		except KeyboardInterrupt:
 			print("\nType exit to exit")
-
 def main():
 	prompt()
 if __name__ == "__main__":
