@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import os, sys, time, subprocess, requests, socket
 from prompt_toolkit.shortcuts import prompt
 from prompt_toolkit.styles import Style
