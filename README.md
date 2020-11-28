@@ -16,3 +16,5 @@
 ❯ ./install.sh
 
 ❯ Pieta
+
+![image](./images/demo.GIF)
