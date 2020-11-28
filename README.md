@@ -3,15 +3,15 @@
 
 ### Features:
 
-## * ⚡ Interactive Command Prompt ⚡
+### ⚡ Interactive Command Prompt ⚡
 
 ![image](./images/example.gif)
 
-* ⚡ Automated Enumeration ⚡
+### ⚡ Automated Enumeration ⚡
   
 ![image](./images/demo.gif)
 
-* ⚡ Custom 100% FUD Payloads ⚡
+### ⚡ Custom 100% FUD Payloads ⚡
 
 ### Usage: 
 
