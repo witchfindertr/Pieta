@@ -1,8 +1,8 @@
 ## Work in progress Remote Access Tool
 ### Features:
-* Interactive Command Prompt
-* Automated Enumeration
-* Custom 100% FUD Payloads
+* ⚡ Interactive Command Prompt ⚡
+* ⚡ Automated Enumeration ⚡
+* ⚡ Custom 100% FUD Payloads ⚡
 
 
 
