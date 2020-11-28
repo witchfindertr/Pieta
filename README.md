@@ -2,25 +2,14 @@
 ![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)
 
 ### Features:
-<!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText="Click to expand") -->
-<details>
-<summary>"⚡ Interactive Command Prompt ⚡"</summary>
+
+* ⚡ Interactive Command Prompt ⚡
 
 ![image](./images/example.gif)
 
-</details>
-<!-- AUTO-GENERATED-CONTENT:END -->
-
-<!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText="Click to expand") -->
-<details>
-<summary>"⚡ Automated Enumeration ⚡"</summary>
+* ⚡ Automated Enumeration ⚡
   
 ![image](./images/demo.gif)
-
-</details>
-<!-- AUTO-GENERATED-CONTENT:END -->
-
-
 
 * ⚡ Custom 100% FUD Payloads ⚡
 
