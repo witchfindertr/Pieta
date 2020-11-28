@@ -17,4 +17,4 @@
 
 ❯ Pieta
 
-![image](./images/demo.GIF)
+![image](./images/demo.gif)
