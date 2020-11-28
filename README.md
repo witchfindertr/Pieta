@@ -12,5 +12,10 @@
 
 * ⚡ Custom 100% FUD Payloads ⚡
 
-
 ![image](./images/example.gif)
+
+### Usage: 
+
+chmod +x install.sh
+./install.sh
+Pieta
