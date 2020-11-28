@@ -4,14 +4,16 @@
 ### Features:
 <!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText="Click to expand") -->
 <details>
-<summary>"# ⚡ Interactive Command Prompt ⚡"</summary>
+<summary>"⚡ Interactive Command Prompt ⚡"</summary>
 
+![image](./images/example.gif)
+
+</details>
+<!-- AUTO-GENERATED-CONTENT:END -->
 
 * ⚡ Automated Enumeration ⚡
 
 * ⚡ Custom 100% FUD Payloads ⚡
-
-![image](./images/example.gif)
 
 ### Usage: 
 
