@@ -16,8 +16,8 @@
 
 ### Usage: 
 
-chmod +x install.sh
+❯ chmod +x install.sh
 
-./install.sh
+❯ ./install.sh
 
-Pieta
+❯ Pieta
