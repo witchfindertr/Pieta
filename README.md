@@ -1,7 +1,7 @@
 ## Pieta Remote Access Tool
 
 <p align="center">
-  <img width="460" height="300" src="https://tryhackme-badges.s3.amazonaws.com/jondoe.png">
+  <img width="460" height="300" src="https://tryhackme-badges.s3.amazonaws.com/jondoe.png" alt="Tryhackme">
 </p>
 
 
